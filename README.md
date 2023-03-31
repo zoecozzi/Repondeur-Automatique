@@ -12,5 +12,5 @@ Cette application ce compose de 2 pages fonctionnelles.
 8. L'application crash car je n'arrive pas à me connecter à mon application SMS de mon emulateur malgré beaucoup de temps passé dessus.
 
 ### Information
-J'ai utilisé l'émulator Nixon 4 API 26 et mon application est fonctionnelle dessus.
+J'ai utilisé l'émulateur Nixon 4 API 26 et mon application est fonctionnelle dessus.
 
